@@ -35,11 +35,6 @@ npm install
 ```
 
 ### 4. Set Up TailwindCSS
-#### Install Tailwind CSS and Other Dependencies
-
-```bash
- Install Tailwind CSS along with PostCSS and Autoprefixer
-```
 Run the following command to install the required packages:
 ```bash
 npm install -D tailwindcss postcss autoprefixer
